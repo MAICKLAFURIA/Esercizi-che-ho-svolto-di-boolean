@@ -1,0 +1,71 @@
+.logo{
+  width: 240px;
+}
+body{
+  background-image: url(background.jpg);
+}
+.black{
+  background: #000000;
+  opacity: 0.5;
+  border-radius: 5%;
+}
+
+header{
+  width: 1000px;
+  margin:auto;
+  text-align: center;
+  margin-top: 130px;
+}
+.titolo1{
+  color: limegreen;
+  font-size: 33px;
+  font-family: 'Balsamiq Sans', cursive;
+}
+.button {
+  background-color: limegreen;
+  width: 900px;
+  text-align: center;
+  margin-left: 500px;
+  padding: 15px;
+}
+#simbolo:before{
+  content: "\27BB";
+}
+.gino {
+  font-size: 20px;
+  width: 900px;
+  margin: auto;
+  font-family: 'Balsamiq Sans', cursive;
+  padding: 20px;
+}
+#simbolo{
+  font-size: 15px;
+}
+.text{
+  font-size: 15px;
+}
+#orange{
+  border-radius: 20%;
+  color: orange;
+  background-color: orange;
+}
+#green{
+  border-radius: 20%;
+  color: green;
+  background-color: green;
+}
+#red{
+  border-radius: 20%;
+  color: darkred;
+  background-color: darkred;
+}
+.mike, .fede{
+  font-size: 20px;
+  width: 900px;
+  margin: auto;
+  font-family: 'Balsamiq Sans', cursive;
+  padding: 20px;
+}
+.fede, .mike, .gino{
+  color: white;
+}
